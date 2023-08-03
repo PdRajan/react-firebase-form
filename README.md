@@ -8,7 +8,7 @@ React Firebase Form is a simple contact form built using React.js and Firebase. 
 ### Preview
 
 ![Form Preview](preview.png)
-
+![Form Preview](firebase-preview.png)
 ## Features
 
 - Responsive and user-friendly contact form.
@@ -20,7 +20,7 @@ React Firebase Form is a simple contact form built using React.js and Firebase. 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/PdRajan/react-firebase-form.git
+git clone https://github.com/your-username/react-firebase-form.git
 ```
 Install the required dependencies:
 ```
