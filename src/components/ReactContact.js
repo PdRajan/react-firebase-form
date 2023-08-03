@@ -31,7 +31,7 @@ const ReactContact = () => {
         if(name && email && phone && address && message){
 
             
-            const res = await fetch('https://react-firebase-form-55274-default-rtdb.firebaseio.com/react-firebase-form.json',
+            const res = await fetch('YOUR FIREBASE LINK',
             {
                 method: "POST",
                 headers: {
